@@ -25,6 +25,7 @@ atkmm
 attica
 attr
 autoconf
+autoconf-archive
 automake
 avahi
 awesome-terminal-fonts
@@ -40,6 +41,7 @@ boost
 boost-libs
 botan
 bridge-utils
+brotli
 btrfs-progs
 bubblewrap
 bumblebee
@@ -70,10 +72,13 @@ clion-gdb
 clion-jre
 clion-lldb
 clutter
+clutter-gst
+clutter-gtk
 cmake
 coffeescript
 cogl
 colord
+compiler-rt
 compton
 coreutils
 cpio
@@ -138,14 +143,17 @@ findutils
 fish
 flac
 flex
+flite
 fontconfig
 freeglut
 freetype2
+frei0r-plugins
 fribidi
 fuse-common
 fuse2
 gamin
 garcon
+gavl
 gawk
 gc
 gcab
@@ -183,7 +191,9 @@ glibmm
 glu
 gmp
 gnome-bluetooth
+gnome-common
 gnome-desktop
+gnome-doc-utils
 gnome-icon-theme
 gnome-icon-theme-symbolic
 gnome-keyring-sharp
@@ -193,12 +203,14 @@ gnome-perl
 gnome-session
 gnome-settings-daemon
 gnome-shell
-gnome-themes-standard
+gnome-themes-extra
 gnome-vfs-nosmb
 gnome-vfs-perl
+gnome-video-effects
 gnomecanvas-perl
 gnupg
 gnustep-base
+gnustep-make
 gnutls
 go
 gobject-introspection-runtime
@@ -371,6 +383,7 @@ lib32-flac
 lib32-fontconfig
 lib32-freeglut
 lib32-freetype2
+lib32-fribidi
 lib32-gcc-libs
 lib32-gconf
 lib32-gdk-pixbuf2
@@ -412,6 +425,7 @@ lib32-libgudev
 lib32-libice
 lib32-libid3tag
 lib32-libidn
+lib32-libidn2
 lib32-libindicator-gtk2
 lib32-libjpeg-turbo
 lib32-libjpeg6-turbo
@@ -439,6 +453,7 @@ lib32-libtiff
 lib32-libtiff4
 lib32-libtirpc
 lib32-libudev0-shim
+lib32-libunistring
 lib32-libusb
 lib32-libva
 lib32-libvdpau
@@ -584,6 +599,7 @@ libgnomeui
 libgooglepinyin
 libgpg-error
 libgphoto2
+libgpod
 libgtop
 libgudev
 libgusb
@@ -629,6 +645,7 @@ libmpc
 libmpcdec
 libmpd
 libmpeg2
+libmtp
 libnatspec
 libnautilus-extension
 libndp
@@ -637,6 +654,7 @@ libnewt
 libnfnetlink
 libnftnl
 libnghttp2
+libnice
 libnl
 libnm
 libnm-glib
@@ -795,8 +813,10 @@ mono-addins
 mousepad
 mpfr
 mpg123
+mpv
 mtdev
 muparser
+mutagen
 mutter
 nano
 nasm
@@ -813,6 +833,7 @@ networkmanager
 nghttp2
 nm-connection-editor
 nmap
+node-gyp
 nodejs
 notify-sharp
 noto-fonts
@@ -897,6 +918,7 @@ perl-json-xs
 perl-libwww
 perl-locale-gettext
 perl-lwp-mediatypes
+perl-mailtools
 perl-net-dbus
 perl-net-http
 perl-proc-processtable
@@ -905,6 +927,7 @@ perl-sort-naturally
 perl-sub-uplevel
 perl-test-warn
 perl-text-iconv
+perl-timedate
 perl-tree-dag-node
 perl-try-tiny
 perl-types-serialiser
@@ -951,6 +974,7 @@ pygobject2-devel
 pygtk
 pyqt5-common
 python
+python-anytree
 python-appdirs
 python-asn1crypto
 python-atspi
@@ -1028,6 +1052,7 @@ qt5-webchannel
 qt5-x11extras
 qt5-xmlpatterns
 qtwebkit
+rarian
 re2
 readline
 reiserfsprogs
@@ -1038,6 +1063,7 @@ rp-pppoe
 rsync
 rtkit
 rtmpdump
+rubberband
 ruby
 rubygems
 run-parts
@@ -1059,6 +1085,7 @@ sdl_ttf
 sed
 semver
 serf
+sg3_utils
 shadow
 shadowsocks
 shadowsocks-libev
@@ -1072,6 +1099,7 @@ slim-themes
 smbclient
 smpeg
 smpeg2
+smplayer
 snappy
 solid
 sonnet
@@ -1082,6 +1110,7 @@ spandsp
 speex
 speexdsp
 sqlite
+srt
 startup-notification
 steam
 steam-native-runtime
@@ -1150,8 +1179,10 @@ ttf-signika
 ttf-ubuntu-font-family
 ttf-wps-fonts
 tumbler
+twolame
 typora
 tzdata
+uchardet
 udiskie
 udisks2
 unarchiver
@@ -1164,6 +1195,7 @@ util-linux
 v4l-utils
 vala
 valgrind
+vamp-plugin-sdk
 vi
 vid.stab
 vim
@@ -1177,7 +1209,6 @@ visual-studio-code-bin
 vlc
 volume_key
 vpnc
-vte
 vte-common
 vte3
 vulkan-icd-loader
@@ -1192,6 +1223,7 @@ wildmidi
 wireshark-cli
 wireshark-common
 wireshark-qt
+woff2
 wpa_supplicant
 wps-office
 wqy-microhei

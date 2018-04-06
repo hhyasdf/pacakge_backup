@@ -41,6 +41,7 @@ boost
 boost-libs
 botan
 bridge-utils
+brotli
 btrfs-progs
 bubblewrap
 bumblebee
@@ -77,6 +78,7 @@ cmake
 coffeescript
 cogl
 colord
+compiler-rt
 compton
 coreutils
 cpio
@@ -141,6 +143,7 @@ findutils
 fish
 flac
 flex
+flite
 fontconfig
 freeglut
 freetype2
@@ -200,13 +203,14 @@ gnome-perl
 gnome-session
 gnome-settings-daemon
 gnome-shell
-gnome-themes-standard
+gnome-themes-extra
 gnome-vfs-nosmb
 gnome-vfs-perl
 gnome-video-effects
 gnomecanvas-perl
 gnupg
 gnustep-base
+gnustep-make
 gnutls
 go
 gobject-introspection-runtime
@@ -379,6 +383,7 @@ lib32-flac
 lib32-fontconfig
 lib32-freeglut
 lib32-freetype2
+lib32-fribidi
 lib32-gcc-libs
 lib32-gconf
 lib32-gdk-pixbuf2
@@ -649,6 +654,7 @@ libnewt
 libnfnetlink
 libnftnl
 libnghttp2
+libnice
 libnl
 libnm
 libnm-glib
@@ -827,6 +833,7 @@ networkmanager
 nghttp2
 nm-connection-editor
 nmap
+node-gyp
 nodejs
 notify-sharp
 noto-fonts
@@ -965,6 +972,7 @@ pygobject2-devel
 pygtk
 pyqt5-common
 python
+python-anytree
 python-appdirs
 python-asn1crypto
 python-atspi
@@ -1100,6 +1108,7 @@ spandsp
 speex
 speexdsp
 sqlite
+srt
 startup-notification
 steam
 steam-native-runtime
@@ -1168,6 +1177,7 @@ ttf-signika
 ttf-ubuntu-font-family
 ttf-wps-fonts
 tumbler
+twolame
 typora
 tzdata
 uchardet
@@ -1212,6 +1222,7 @@ wildmidi
 wireshark-cli
 wireshark-common
 wireshark-qt
+woff2
 wpa_supplicant
 wps-office
 wqy-microhei
