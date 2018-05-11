@@ -483,7 +483,7 @@
 ## Score: 18.3, New Caledonia
 #Server = http://archlinux.nautile.nc/archlinux/$repo/os/$arch
 ## Score: 19.2, China
-Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+#Server = http://mirrors.163.com/archlinux/$repo/os/$arch
 ## Score: 22.4, Ukraine
 #Server = http://archlinux.ip-connect.vn.ua/$repo/os/$arch
 ## Score: 24.8, France
