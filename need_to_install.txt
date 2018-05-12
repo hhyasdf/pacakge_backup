@@ -1,5 +1,2 @@
 understand
-guake
-albert
 gnome-terminal
-archieve
