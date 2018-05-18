@@ -18,6 +18,7 @@ apr-util
 archlinux-keyring
 argon2
 aria2
+asp
 aspell
 at-spi2-atk
 at-spi2-core
@@ -63,7 +64,6 @@ cblas
 cdparanoia
 celt
 chromaprint
-chromium
 chrpath
 cifs-utils
 clang
@@ -136,6 +136,7 @@ fcitx-qt4
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
+ffmpeg2.8
 fftw
 file
 filesystem
@@ -213,6 +214,7 @@ gnustep-make
 gnutls
 go
 gobject-introspection-runtime
+google-chrome-dev
 gpgme
 gpm
 gptfdisk
@@ -299,6 +301,7 @@ jbig2dec
 jdk8-openjdk
 jemalloc
 jfsutils
+jq
 jre8-openjdk
 jre8-openjdk-headless
 js52
@@ -501,6 +504,7 @@ lib32-pango
 lib32-pcre
 lib32-pixman
 lib32-polkit
+lib32-primus
 lib32-readline
 lib32-sdl
 lib32-sdl2
@@ -848,6 +852,7 @@ numix-icon-theme-git
 nvidia-390xx
 nvidia-390xx-utils
 ocl-icd
+oniguruma
 openal
 openbsd-netcat
 opencc
@@ -1243,6 +1248,7 @@ xdotool
 xf86-input-evdev
 xf86-input-libinput
 xf86-input-synaptics
+xf86-video-fbdev
 xf86-video-intel
 xf86-video-vesa
 xfburn
