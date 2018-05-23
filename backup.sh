@@ -7,6 +7,7 @@ BACK_UP_FILE="packageBackup$DATE"
 OUTPUT_PATH="$BACK_UP_PATH$BACK_UP_FILE"
 RM_FILES=$BACK_UP_PATH"packageBackup"$LAST_MONTH*
 
+rm $OUTPUT_PATH 2> /dev/null
 touch $OUTPUT_PATH
 pacman -Qnq >> $OUTPUT_PATH
 echo "generate backup: $BACK_UP_PATH$BACK_UP_FILE"
