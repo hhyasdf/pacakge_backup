@@ -18,7 +18,6 @@ apr-util
 archlinux-keyring
 argon2
 aria2
-asp
 aspell
 at-spi2-atk
 at-spi2-core
@@ -64,6 +63,7 @@ cblas
 cdparanoia
 celt
 chromaprint
+chromium
 chrpath
 cifs-utils
 clang
@@ -97,7 +97,6 @@ dbus
 dbus-glib
 dbus-sharp
 dbus-sharp-glib
-dcadec
 dconf
 desktop-file-utils
 device-mapper
@@ -136,7 +135,6 @@ fcitx-qt4
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
-ffmpeg2.8
 fftw
 file
 filesystem
@@ -198,7 +196,6 @@ gnome-icon-theme
 gnome-icon-theme-symbolic
 gnome-keyring-sharp
 gnome-menus
-gnome-mime-data
 gnome-perl
 gnome-session
 gnome-settings-daemon
@@ -214,7 +211,6 @@ gnustep-make
 gnutls
 go
 gobject-introspection-runtime
-google-chrome-dev
 gpgme
 gpm
 gptfdisk
@@ -301,7 +297,6 @@ jbig2dec
 jdk8-openjdk
 jemalloc
 jfsutils
-jq
 jre8-openjdk
 jre8-openjdk-headless
 js52
@@ -504,7 +499,6 @@ lib32-pango
 lib32-pcre
 lib32-pixman
 lib32-polkit
-lib32-primus
 lib32-readline
 lib32-sdl
 lib32-sdl2
@@ -515,7 +509,6 @@ lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
 lib32-smpeg
-lib32-smpeg2
 lib32-sqlite
 lib32-systemd
 lib32-tdb
@@ -720,6 +713,7 @@ libupnp
 libusb
 libusbmuxd
 libutempter
+libutf8proc
 libutil-linux
 libuv
 libva
@@ -825,6 +819,7 @@ nano
 nasm
 ncurses
 ncurses5-compat-libs
+ndctl
 neon
 net-snmp
 net-tools
@@ -852,7 +847,6 @@ numix-icon-theme-git
 nvidia-390xx
 nvidia-390xx-utils
 ocl-icd
-oniguruma
 openal
 openbsd-netcat
 opencc
@@ -951,7 +945,7 @@ phonon-qt5-gstreamer
 pinentry
 pipewire
 pixman
-pkg-config
+pkgconf
 plasma-framework
 polkit
 polkit-gnome
@@ -1103,7 +1097,6 @@ slim
 slim-themes
 smbclient
 smpeg
-smpeg2
 smplayer
 snappy
 solid
@@ -1248,9 +1241,6 @@ xdotool
 xf86-input-evdev
 xf86-input-libinput
 xf86-input-synaptics
-xf86-video-fbdev
-xf86-video-intel
-xf86-video-vesa
 xfburn
 xfce4-appfinder
 xfce4-artwork
@@ -1314,6 +1304,7 @@ xorg-server-common
 xorg-server-xwayland
 xorg-sessreg
 xorg-setxkbmap
+xorg-util-macros
 xorg-xauth
 xorg-xclock
 xorg-xdm
@@ -1333,6 +1324,7 @@ xorg-xsetroot
 xorg-xwininfo
 xorgproto
 xsel
+xtrans
 xvidcore
 xz
 yajl
