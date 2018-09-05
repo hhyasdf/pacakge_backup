@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+~/proxyee-down-2.54/jre1.8.0_181/bin/java -jar ~/proxyee-down-2.54/proxyee-down-2.54/proxyee-down.jar 
