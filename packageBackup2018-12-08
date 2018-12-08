@@ -19,6 +19,7 @@ apr-util
 archlinux-keyring
 argon2
 aria2
+aribb24
 aspell
 at-spi2-atk
 at-spi2-core
@@ -26,6 +27,7 @@ atk
 atkmm
 attica
 attr
+audit
 autoconf
 autoconf-archive
 automake
@@ -212,6 +214,7 @@ gnustep-base
 gnustep-make
 gnutls
 go
+go-tools
 gobject-introspection-runtime
 gpgme
 gpm
@@ -225,6 +228,7 @@ grub
 gsettings-desktop-schemas
 gsfonts
 gsm
+gspell
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -305,6 +309,7 @@ jfsutils
 jre8-openjdk
 jre8-openjdk-headless
 js52
+js60
 json-c
 json-glib
 jsoncpp
@@ -459,6 +464,7 @@ lib32-libudev0-shim
 lib32-libunistring
 lib32-libusb
 lib32-libva
+lib32-libva1
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx1.3
@@ -659,6 +665,8 @@ libnice
 libnl
 libnm
 libnm-glib
+libnm-gtk
+libnma
 libnotify
 libnsl
 libofa
@@ -724,6 +732,7 @@ libutil-linux
 libuv
 libva
 libva-intel-driver
+libva1
 libvdpau
 libvisual
 libvoikko
@@ -1341,7 +1350,7 @@ xtrans
 xvidcore
 xz
 yajl
-yaourt
+yay
 yelp-tools
 yelp-xsl
 zbar
