@@ -69,11 +69,6 @@ chromium
 chrpath
 cifs-utils
 clang
-clion
-clion-cmake
-clion-gdb
-clion-jre
-clion-lldb
 clutter
 clutter-gst
 clutter-gtk
@@ -83,6 +78,7 @@ cogl
 colord
 compiler-rt
 compton
+containerd
 coreutils
 cpio
 cppcheck
@@ -189,6 +185,7 @@ glib2
 glib2-docs
 glibc
 glibmm
+glslang
 glu
 gmp
 gnome-bluetooth
@@ -432,6 +429,7 @@ lib32-libgudev
 lib32-libice
 lib32-libid3tag
 lib32-libidn
+lib32-libidn11
 lib32-libidn2
 lib32-libindicator-gtk2
 lib32-libjpeg-turbo
@@ -494,6 +492,7 @@ lib32-libxv
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
+lib32-lz4
 lib32-mesa
 lib32-mesa-demos
 lib32-mpg123
@@ -529,6 +528,7 @@ lib32-virtualgl
 lib32-wayland
 lib32-xz
 lib32-zlib
+lib32-zstd
 libaec
 libaio
 libappindicator-gtk2
@@ -618,6 +618,7 @@ libice
 libid3tag
 libidl2
 libidn
+libidn11
 libidn2
 libiec61883
 libieee1284
@@ -641,6 +642,7 @@ libmagick
 libmagick6
 libmariadbclient
 libmatroska
+libmaxminddb
 libmikmod
 libmm-glib
 libmms
@@ -797,6 +799,7 @@ lmdb
 logrotate
 lsb-release
 lshw
+lsof
 lua
 lua52
 lvm2
@@ -1086,6 +1089,7 @@ rubberband
 ruby
 rubygems
 run-parts
+runc
 rust
 s-nail
 sane
@@ -1105,6 +1109,7 @@ sed
 semver
 serf
 sg3_utils
+shaderc
 shadow
 shadowsocks
 shadowsocks-libev
@@ -1127,6 +1132,7 @@ source-highlight
 spandsp
 speex
 speexdsp
+spirv-tools
 sqlite
 srt
 startup-notification
@@ -1147,6 +1153,7 @@ talloc
 tar
 tcpdump
 tdb
+terminus-font
 tevent
 texinfo
 texlive-bibtexextra
@@ -1181,6 +1188,7 @@ tmux
 tree
 tslib
 ttf-baekmuk
+ttf-bitstream-vera
 ttf-croscore
 ttf-dejavu
 ttf-fira-mono
