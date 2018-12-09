@@ -1,11 +1,11 @@
 {
-    "server":"138.68.14.73",
-    "server_port":39666,
+    "server":"149.248.19.86",
+    "server_port":46579,
     "local_address": "127.0.0.1",
     "local_port":1080,
     "password":"hhy552483776",
     "timeout":300,
-    "method":"aes-256-cfb",
+    "method":"chacha20",
     "fast_open": false,
     "workers": 1,
     "prefer_ipv6": false
