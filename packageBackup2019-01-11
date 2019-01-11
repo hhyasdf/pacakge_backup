@@ -69,6 +69,7 @@ chromium
 chrpath
 cifs-utils
 clang
+cloc
 clutter
 clutter-gst
 clutter-gtk
@@ -883,6 +884,7 @@ openssl
 openssl-1.0
 openvswitch
 opus
+opusfile
 orage
 orbit2
 orc
@@ -905,8 +907,10 @@ pcre2
 pcsclite
 pepper-flash
 perl
+perl-algorithm-diff
 perl-canary-stability
 perl-common-sense
+perl-cpanel-json-xs
 perl-encode-locale
 perl-error
 perl-file-basedir
@@ -930,6 +934,7 @@ perl-http-server-simple
 perl-io-html
 perl-ipc-system-simple
 perl-json
+perl-json-maybexs
 perl-json-xs
 perl-libwww
 perl-locale-gettext
@@ -937,8 +942,10 @@ perl-lwp-mediatypes
 perl-mailtools
 perl-net-dbus
 perl-net-http
+perl-parallel-forkmanager
 perl-proc-processtable
 perl-proc-simple
+perl-regexp-common
 perl-sort-naturally
 perl-sub-uplevel
 perl-test-warn
@@ -1058,6 +1065,7 @@ qpdf
 qrencode
 qt4
 qt5-base
+qt5-charts
 qt5-declarative
 qt5-graphicaleffects
 qt5-location
