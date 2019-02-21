@@ -170,7 +170,7 @@ gdb-common
 gdbm
 gdk-pixbuf2
 gendesk
-geoclue2
+geoclue
 geocode-glib
 geoip
 geoip-database
@@ -216,6 +216,7 @@ gnutls
 go
 go-tools
 gobject-introspection-runtime
+gperf
 gpgme
 gpm
 gptfdisk
@@ -229,6 +230,7 @@ gsettings-desktop-schemas
 gsfonts
 gsm
 gspell
+gssdp
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -258,6 +260,8 @@ gts
 guake
 guile
 guile2.0
+gupnp
+gupnp-igd
 gvfs
 gzip
 harfbuzz
@@ -643,7 +647,6 @@ liblqr
 libmad
 libmagick
 libmagick6
-libmariadbclient
 libmatroska
 libmaxminddb
 libmikmod
@@ -670,7 +673,6 @@ libnice
 libnl
 libnm
 libnm-glib
-libnm-gtk
 libnma
 libnotify
 libnsl
@@ -713,7 +715,6 @@ libssh
 libssh2
 libstemmer
 libsynctex
-libsystemd
 libtar
 libtasn1
 libteam
@@ -757,6 +758,7 @@ libxcb
 libxcomposite
 libxcursor
 libxdamage
+libxdg-basedir
 libxdmcp
 libxext
 libxfce4ui
@@ -814,6 +816,7 @@ man-db
 man-pages
 mariadb
 mariadb-clients
+mariadb-libs
 mbedtls
 mdadm
 media-player-info
@@ -833,7 +836,6 @@ mpg123
 mpv
 mtdev
 muparser
-mutagen
 mutter
 nano
 nasm
@@ -989,6 +991,7 @@ ppp
 primus
 procps-ng
 protobuf
+proxychains-ng
 psmisc
 pulseaudio
 pulseaudio-alsa
@@ -1032,6 +1035,7 @@ python-setuptools
 python-sip
 python-sip-pyqt5
 python-six
+python-soupsieve
 python-urllib3
 python-xlib
 python-yaml
@@ -1050,6 +1054,7 @@ python2-gobject2
 python2-idna
 python2-ipaddress
 python2-keybinder2
+python2-mutagen
 python2-networkx
 python2-notify
 python2-packaging
@@ -1074,6 +1079,7 @@ qt5-quickcontrols
 qt5-quickcontrols2
 qt5-script
 qt5-sensors
+qt5-serialport
 qt5-speech
 qt5-svg
 qt5-tools
@@ -1155,6 +1161,7 @@ syntax-highlighting
 sysfsutils
 sysstat
 systemd
+systemd-libs
 systemd-sysvcompat
 t1lib
 t1utils
