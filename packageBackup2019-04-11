@@ -36,6 +36,7 @@ awesome-terminal-fonts
 bash
 bbswitch
 bc
+bcg729
 binutils
 bison
 blas
@@ -110,7 +111,6 @@ dnssec-anchors
 docbook-xml
 docbook-xsl
 docker
-docky
 dosfstools
 double-conversion
 e2fsprogs
@@ -151,7 +151,6 @@ frei0r-plugins
 fribidi
 fuse-common
 fuse2
-gamin
 garcon
 gavl
 gawk
@@ -179,7 +178,6 @@ ghostscript
 giflib
 git
 gjs
-gkeyfile-sharp
 glew
 glew1.10
 glib-networking
@@ -197,7 +195,6 @@ gnome-desktop
 gnome-doc-utils
 gnome-icon-theme
 gnome-icon-theme-symbolic
-gnome-keyring-sharp
 gnome-menus
 gnome-mime-data
 gnome-perl
@@ -310,6 +307,7 @@ jbig2dec
 jdk8-openjdk
 jemalloc
 jfsutils
+jq
 jre8-openjdk
 jre8-openjdk-headless
 js52
@@ -799,6 +797,7 @@ linux-headers
 linux-lts-headers
 llvm
 llvm-libs
+llvm7-libs
 lm_sensors
 lmdb
 logrotate
@@ -812,6 +811,7 @@ lz4
 lzo
 m4
 make
+mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -855,7 +855,6 @@ nm-connection-editor
 nmap
 node-gyp
 nodejs
-notify-sharp
 noto-fonts
 noto-fonts-emoji
 noto-fonts-extra
@@ -869,6 +868,7 @@ numix-icon-theme-git
 nvidia-390xx
 nvidia-390xx-utils
 ocl-icd
+oniguruma
 openal
 openbsd-netcat
 opencc
@@ -1066,7 +1066,6 @@ python2-gobject
 python2-gobject2
 python2-idna
 python2-ipaddress
-python2-keybinder2
 python2-mutagen
 python2-networkx
 python2-notify
@@ -1278,8 +1277,8 @@ wget
 which
 wildmidi
 wireshark-cli
-wireshark-common
 wireshark-qt
+wkhtmltopdf
 woff2
 wpa_supplicant
 wps-office
@@ -1357,7 +1356,6 @@ xorg-fonts-alias
 xorg-fonts-encodings
 xorg-fonts-misc
 xorg-iceauth
-xorg-mkfontdir
 xorg-mkfontscale
 xorg-server
 xorg-server-common
