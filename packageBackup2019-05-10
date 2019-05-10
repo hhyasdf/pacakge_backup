@@ -132,7 +132,6 @@ fcitx
 fcitx-configtool
 fcitx-gtk2
 fcitx-gtk3
-fcitx-qt4
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
@@ -577,6 +576,7 @@ libdbusmenu-gtk2
 libdbusmenu-qt5
 libdc1394
 libdca
+libde265
 libdmx
 libdrm
 libdv
@@ -642,8 +642,8 @@ libksba
 libldap
 liblouis
 liblqr
+liblrdf
 libmad
-libmagick
 libmagick6
 libmatroska
 libmaxminddb
@@ -1102,6 +1102,7 @@ qt5-x11extras
 qt5-xmlpatterns
 qtwebkit
 quazip
+raptor
 rarian
 re2
 readline
