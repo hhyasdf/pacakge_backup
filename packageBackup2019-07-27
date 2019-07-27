@@ -301,10 +301,13 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
+jdk11-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
 jq
+jre11-openjdk
+jre11-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
 js52
@@ -659,6 +662,7 @@ libmtp
 libnatspec
 libnautilus-extension
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -860,7 +864,6 @@ npth
 nspr
 nss
 numix-circle-icon-theme-git
-numix-gtk-theme
 numix-icon-theme-git
 nvidia-390xx
 nvidia-390xx-utils
