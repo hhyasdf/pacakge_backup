@@ -92,6 +92,7 @@ ctags
 cups
 cups-filters
 curl
+dav1d
 db
 dbus
 dbus-glib
@@ -175,6 +176,7 @@ gettext
 ghostscript
 giflib
 git
+git-lfs
 gjs
 glew
 glew1.10
@@ -863,6 +865,7 @@ npm
 npth
 nspr
 nss
+ntfs-3g
 numix-circle-icon-theme-git
 numix-icon-theme-git
 nvidia-390xx
@@ -911,8 +914,11 @@ pepper-flash
 perl
 perl-algorithm-diff
 perl-canary-stability
+perl-class-method-modifiers
 perl-common-sense
 perl-cpanel-json-xs
+perl-data-optlist
+perl-devel-globaldestruction
 perl-encode-locale
 perl-error
 perl-file-basedir
@@ -933,6 +939,8 @@ perl-http-message
 perl-http-negotiate
 perl-http-response-encoding
 perl-http-server-simple
+perl-import-into
+perl-inc-latest
 perl-io-html
 perl-ipc-system-simple
 perl-json
@@ -942,13 +950,22 @@ perl-libwww
 perl-locale-gettext
 perl-lwp-mediatypes
 perl-mailtools
+perl-module-build
+perl-module-runtime
+perl-moo
 perl-net-dbus
 perl-net-http
 perl-parallel-forkmanager
+perl-params-util
 perl-proc-processtable
 perl-proc-simple
 perl-regexp-common
+perl-role-tiny
 perl-sort-naturally
+perl-sub-exporter
+perl-sub-exporter-progressive
+perl-sub-install
+perl-sub-quote
 perl-sub-uplevel
 perl-test-warn
 perl-text-iconv
