@@ -70,6 +70,7 @@ chromium
 chrpath
 cifs-utils
 clang
+clion
 cloc
 clutter
 clutter-gst
@@ -151,6 +152,7 @@ frei0r-plugins
 fribidi
 fuse-common
 fuse2
+fuse3
 garcon
 gavl
 gawk
@@ -197,14 +199,11 @@ gnome-icon-theme
 gnome-icon-theme-symbolic
 gnome-menus
 gnome-mime-data
-gnome-perl
 gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-themes-extra
-gnome-vfs-perl
 gnome-video-effects
-gnomecanvas-perl
 gnupg
 gnustep-base
 gnustep-make
@@ -242,7 +241,6 @@ gtk-engines
 gtk-sharp-2
 gtk-sharp-3
 gtk-update-icon-cache
-gtk-xfce-engine
 gtk2
 gtk2-perl
 gtk3
@@ -396,7 +394,6 @@ lib32-freeglut
 lib32-freetype2
 lib32-fribidi
 lib32-gcc-libs
-lib32-gconf
 lib32-gdk-pixbuf2
 lib32-gettext
 lib32-giflib
@@ -751,6 +748,7 @@ libwbclient
 libwebp
 libwnck
 libwnck3
+libwpe
 libwrap
 libx11
 libxau
@@ -778,6 +776,7 @@ libxmu
 libxnvctrl
 libxp
 libxpm
+libxpresent
 libxrandr
 libxrender
 libxres
@@ -1022,6 +1021,7 @@ python-anytree
 python-appdirs
 python-asn1crypto
 python-atspi
+python-attrs
 python-beautifulsoup4
 python-cachecontrol
 python-cairo
@@ -1037,9 +1037,11 @@ python-docopt
 python-gobject
 python-html5lib
 python-idna
+python-importlib-metadata
 python-keyutils
 python-lockfile
 python-lxml
+python-more-itertools
 python-msgpack
 python-numpy
 python-packaging
@@ -1069,9 +1071,11 @@ python-urllib3
 python-webencodings
 python-xlib
 python-yaml
+python-zipp
 python2
 python2-appdirs
 python2-asn1crypto
+python2-attrs
 python2-cairo
 python2-cffi
 python2-cryptography
@@ -1159,7 +1163,6 @@ shadow
 shadowsocks
 shadowsocks-libev
 shared-mime-info
-shutter
 sip
 slang
 slim
@@ -1298,6 +1301,7 @@ wireshark-qt
 wkhtmltopdf
 woff2
 wpa_supplicant
+wpebackend-fdo
 wps-office
 wqy-microhei
 wqy-microhei-lite
@@ -1310,6 +1314,7 @@ xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
+xdg-dbus-proxy
 xdg-utils
 xdm-archlinux
 xdotool
