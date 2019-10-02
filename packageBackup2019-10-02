@@ -121,7 +121,8 @@ efibootmgr
 efivar
 egl-wayland
 eglexternalplatform
-electron
+electron-ssr
+electron4
 enchant
 evince
 exo
@@ -191,6 +192,7 @@ glibmm
 glslang
 glu
 gmp
+gnome-autoar
 gnome-bluetooth
 gnome-common
 gnome-desktop
@@ -274,7 +276,6 @@ hunspell-en_CA
 hunspell-en_GB
 hunspell-en_US
 hwids
-hyper
 hyphen
 iana-etc
 ibus
@@ -1268,6 +1269,8 @@ upower
 usbmuxd
 usbutils
 util-linux
+v2ray-domain-list-community
+v2ray-geoip
 v4l-utils
 vala
 valgrind
